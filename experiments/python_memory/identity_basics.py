@@ -1,4 +1,4 @@
-a = 10
+"""a = 10
 b = 10
 
 print(a==b) #value comapre
@@ -9,3 +9,11 @@ y = [1, 2, 3]
 
 print(x == y)
 print(x is y)
+
+
+"""
+a = 100
+print("Before:", a, id(a))
+
+a = a + 1
+print("After :", a, id(a))
