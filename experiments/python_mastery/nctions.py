@@ -17,3 +17,27 @@ cal_sum(10,20)
 
 calc_avg(3,3,3)
 """
+
+
+"""def calc_len_list(nums):
+    print("The length of the list is:",len(nums))
+    return len(nums)
+
+def print_len_list(nums):
+    for i in nums:
+        print(i,end=" ")
+
+calc_len_list(nums)
+print_len_list(nums)"""
+
+
+"""def factorial(n):
+    fact=1
+    for i in range(1,n+1):
+        fact *= i
+    print(fact)
+        
+
+factorial(2)"""
+
+
